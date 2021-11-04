@@ -1,6 +1,0 @@
-.gitignore
-*.pptx
-*.pdf
-*.ppt
-*.pptm
-.pptx
